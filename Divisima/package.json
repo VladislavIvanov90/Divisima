@@ -1,0 +1,22 @@
+{
+  "name": "divisima",
+  "version": "1.0.0",
+  "description": "Divisima E-Commerce Website",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "node-sass scss/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladislavIvanov90/Divisima.git"
+  },
+  "author": "Vladislav IVanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladislavIvanov90/Divisima/issues"
+  },
+  "homepage": "https://github.com/VladislavIvanov90/Divisima#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
